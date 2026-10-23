@@ -1,0 +1,38 @@
+# Dati e risultati (le immagini HandPD non si ridistribuiscono)
+data/*
+!data/README.md
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Office (file temporanei)
+~$*
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
